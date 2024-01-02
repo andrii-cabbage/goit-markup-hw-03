@@ -1,0 +1,195 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background: #fff;
+    color: #434455;
+  }
+  a {
+    text-decoration: none;
+  }
+  ul {
+    list-style: none;
+  }
+  .header-list {
+    color: var(--NAVY-BLUE, #2e2f42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+  }
+  .header-menu-list {
+    color: var(--NAVY-BLUE, #2e2f42);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  .header-menu-list:hover {
+    color: #404bbf;
+  }
+  .header-menu-list:focus {
+    color: #404bbf;
+  }
+  .logotitlel {
+    color: var(--IRIS, #4d5ae5);
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+  }
+  .logotitle {
+    color: var(--NAVY-BLUE, #2e2f42);
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+  }
+  
+  .adrsinfo {
+    color: var(--SLATE, #434455);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    font-style: normal;
+  }
+  .adrsinfof {
+    font-style: normal;
+  }
+  .adrsinfo:hover {
+    color: var(--OCEAN, #404bbf);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  .adrsinfo:focus {
+    color: #404bbf;
+  }
+  .firlogo {
+    color: var(--WHITE, #fff);
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+    background: var(--NAVY-BLUE, #2e2f42);
+  }
+  .firsection {
+    background-color: #2e2f42;
+  }
+  .button {
+    color: var(--WHITE, #fff);
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+    background: var(--IRIS, #4d5ae5);
+    cursor: pointer;
+  }
+  .button:hover {
+    background: var(--OCEAN, #404bbf);
+  }
+  .button:focus {
+    background-color: #404bbf;
+  }
+  .namename {
+    color: var(--NAVY-BLUE, #2e2f42);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    background-color: #ffffff;
+  }
+  .integrinfo {
+    color: var(--SLATE, #434455);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  .thirsection {
+    background-color: #f4f4fd;
+  }
+  h2 {
+    color: var(--NAVY-BLUE, #2e2f42);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+  }
+  .integrlogo {
+    color: var(--NAVY-BLUE, #2e2f42);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    background-color: #ffffff;
+  }
+  .portfolinfo {
+    color: var(--SLATE, #434455);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  footer {
+    background: var(--NAVY-BLUE, #2e2f42);
+  }
+  .footr-logo {
+    color: var(--CLOUD, #f4f4fd);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+  }
+  .lastword {
+    color: var(--CLOUD, #f4f4fd);
+    line-height: 1.5;
+    letter-spacing: 0.02em
+  }
+  .header-menu-list-stud {
+    color: var(--NAVY-BLUE, #2e2f42);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  .header-menu-list-stud:hover {
+    color: var(--OCEAN, #404bbf);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+  }
+  .logotitlell {
+    color: var(--CLOUD, #f4f4fd);
+  }
+  .footer {
+      background-color:#2e2f42
+  }
+  .linkboy {
+    background-color: #FFFFFF
+  }
